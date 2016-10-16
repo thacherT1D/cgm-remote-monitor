@@ -1,3 +1,8 @@
+This is my personal implementation of the Nightscout project. My current implementation is deployed to heroku, previously deployed to azure -- switched to heroku to work better with the OpenAPS (open artificial pancreas system) project. 
+
+This system uses the data relayed from Dexcom G5 blood glucose monitor sensor and compiles it into a mongo database and then displays the information on my page, formatted using the Nightscout front-end.
+
+======================================
 Nightscout Web Monitor (a.k.a. cgm-remote-monitor)
 ======================================
 
